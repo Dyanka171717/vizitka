@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Лесной пейзаж с ноутбуком">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f3d2b"/><stop offset="1" stop-color="#5b7a4a"/></linearGradient></defs>
+<rect width="500" height="500" fill="url(#sky)"/>
+<circle cx="390" cy="95" r="42" fill="#f4ecd8" opacity="0.9"/>
+<polygon points="40,150 21,235 59,235" fill="#2c4a33"/><polygon points="40,198 13,283 67,283" fill="#2c4a33"/><polygon points="40,245 5,330 75,330" fill="#2c4a33"/><rect x="36" y="283" width="7" height="37" fill="#4a3524"/><polygon points="120,150 101,235 139,235" fill="#2c4a33"/><polygon points="120,198 93,283 147,283" fill="#2c4a33"/><polygon points="120,245 85,330 155,330" fill="#2c4a33"/><rect x="116" y="283" width="7" height="37" fill="#4a3524"/><polygon points="205,150 186,235 224,235" fill="#2c4a33"/><polygon points="205,198 178,283 232,283" fill="#2c4a33"/><polygon points="205,245 170,330 240,330" fill="#2c4a33"/><rect x="202" y="283" width="7" height="37" fill="#4a3524"/><polygon points="300,150 281,235 319,235" fill="#2c4a33"/><polygon points="300,198 273,283 327,283" fill="#2c4a33"/><polygon points="300,245 265,330 335,330" fill="#2c4a33"/><rect x="296" y="283" width="7" height="37" fill="#4a3524"/><polygon points="390,150 371,235 409,235" fill="#2c4a33"/><polygon points="390,198 363,283 417,283" fill="#2c4a33"/><polygon points="390,245 355,330 425,330" fill="#2c4a33"/><rect x="386" y="283" width="7" height="37" fill="#4a3524"/><polygon points="470,150 451,235 489,235" fill="#2c4a33"/><polygon points="470,198 443,283 497,283" fill="#2c4a33"/><polygon points="470,245 435,330 505,330" fill="#2c4a33"/><rect x="466" y="283" width="7" height="37" fill="#4a3524"/><polygon points="60,100 32,230 88,230" fill="#1b3322"/><polygon points="60,173 22,303 98,303" fill="#1b3322"/><polygon points="60,246 10,376 110,376" fill="#1b3322"/><rect x="55" y="303" width="10" height="57" fill="#4a3524"/><polygon points="440,100 412,230 468,230" fill="#1b3322"/><polygon points="440,173 402,303 478,303" fill="#1b3322"/><polygon points="440,246 390,376 490,376" fill="#1b3322"/><rect x="435" y="303" width="10" height="57" fill="#4a3524"/><polygon points="250,90 220,230 280,230" fill="#244230"/><polygon points="250,168 208,308 292,308" fill="#244230"/><polygon points="250,247 196,387 304,387" fill="#244230"/><rect x="244" y="308" width="11" height="62" fill="#4a3524"/>
+<rect y="400" width="500" height="100" fill="#6b4423"/>
+<rect y="400" width="500" height="14" fill="#4f7a3a"/>
+<rect x="120" y="270" width="260" height="150" rx="10" fill="#3b2a1a"/>
+<rect x="132" y="282" width="236" height="126" rx="4" fill="#f4ecd8"/>
+<rect x="150" y="300" width="110" height="10" rx="5" fill="#8b5a2b"/>
+<rect x="150" y="320" width="150" height="10" rx="5" fill="#a9b98f"/>
+<rect x="150" y="340" width="90" height="10" rx="5" fill="#a9b98f"/>
+<circle cx="325" cy="372" r="26" fill="#4f7a3a"/>
+<polyline points="312,372 322,382 340,362" fill="none" stroke="#f4ecd8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M95 420 H405 L390 436 H110 Z" fill="#8b5a2b"/>
+</svg>
